@@ -1,0 +1,16 @@
+{
+  "name": "script-bot",
+  "version": "1.0.0",
+  "description": "Slack Bot to run scripts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcogbarcellos",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "slackbots": "^0.5.3"
+  }
+}
