@@ -6,6 +6,9 @@ npm-debug.log*
 # ENV
 .env
 
+# mac os
+.DS_Store
+
 # Runtime data
 pids
 *.pid
